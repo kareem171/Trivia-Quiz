@@ -118,7 +118,7 @@ while True:
 
     #question 6
     print("Question 6: Which giant is the anti-Zues?")
-    KAprint("")
+    print("")
     print("A: Enceladus")
     print("B: Porphyrion")
     print("C: Polybotes")
